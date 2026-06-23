@@ -3,7 +3,11 @@
 ## AI Specialist | Generative AI Evaluator | Prompt Engineer | Filmmaker | Screenwriter | Expert Video Editor | Content Developer
 
 Founder of Tree House Media Kenya, a creative production studio specializing in film, television, documentaries, digital content, and AI-powered creative workflows.
-
+![RLHF](https://img.shields.io/badge/RLHF-Evaluator-blue)
+![LLM](https://img.shields.io/badge/LLM-Assessment-success)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineer-orange)
+![AI Video Evaluation](https://img.shields.io/badge/AI-Video_Evaluation-red)
+![Filmmaker](https://img.shields.io/badge/Film-Producer-black)
 ### What I Do
 
 - Generative AI Evaluation
@@ -63,8 +67,6 @@ Feature films, documentaries, television shows, and awareness campaigns develope
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamalanjuri&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamalanjuri&layout=compact)
 
 ### Screenwriting & Content Development
 
