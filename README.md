@@ -22,6 +22,49 @@ Founder of Tree House Media Kenya, a creative production studio specializing in 
 - Creative Project Management
 - Training Data Quality Review
 - Content Development for TV, Film, and Digital Platforms
+## AI & Creative Specializations
+
+- RLHF Evaluation
+- LLM Assessment
+- Prompt Engineering
+- AI Video Evaluation
+- AI Agent Development
+- Generative AI Workflows
+- Screenwriting
+- Video Editing
+- Documentary Production
+## AI Platforms
+
+- Gemini
+- Veo
+- Vertex AI
+- ChatGPT
+- Leonardo AI
+- Runway
+- Midjourney
+- Sora
+## Featured Projects
+
+### AI Video Evaluation Portfolio
+Evaluation methodologies and quality assessment frameworks for AI-generated video content.
+
+### Outlier AI RLHF Portfolio
+Examples of RLHF-aligned evaluation, response ranking, prompt assessment, and quality review workflows.
+
+### Marakumi Bet AI Agent
+AI-powered analytics, reporting, retention insights, and business intelligence system.
+
+### Tree House Media AI Projects
+AI-assisted filmmaking, content creation, automation, and production workflows.
+
+### Screenwriting & Content Development
+Feature films, documentaries, television shows, and awareness campaigns developed for Kenyan audiences.
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamalanjuri&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamalanjuri&layout=compact)
 
 ### Screenwriting & Content Development
 
@@ -71,15 +114,18 @@ AI-powered betting analytics, reporting, customer retention insights, and busine
 #### Tree House Media Kenya
 Film, documentary, television, commercial production, digital media creation, AI-assisted content development, and creative consulting.
 
-### Connect With Me
+## Connect With Me
 
 📍 Nairobi, Kenya
 
-LinkedIn:
+💼 LinkedIn:
 https://www.linkedin.com/in/jamal-anjuri-b72b1138a/
 
-Portfolio:
-https://drive.google.com/drive/folders/1KDjGNALjQzl2X1Lbt8tGAXUOa57BsMnl
+🎥 Portfolio:
+https://drive.google.com/drive/folders/1KDjGNALjQzl2X1Lbt8tGAXUOa57BsMnI
 
-Email:
+💻 GitHub:
+https://github.com/jamalanjuri
+
+📧 Email:
 ajamal.ghala@gmail.com
